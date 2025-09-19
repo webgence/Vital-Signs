@@ -281,6 +281,17 @@ def body_temp(body_temp, name, age, gender, pulse_rate, Resp_rate, systolic, dia
 """)
 
 
+#Applying ML and Deep Learning
+    put_markdown(f"### **Applying ML and Deep Learning**")
+    put_html("<hr>")
+    put_text("If you're not interested in learning more about your vital signs ")
+
+    put_html("<br>")
+
+
+
+
+
 
 
 """
@@ -372,7 +383,7 @@ def vitals():
         </style>
     """)
 
-    put_markdown('# **An Comphrensive Guide to Understanding Your Vitals**')
+    put_markdown('# **An Comprehensive Guide to Understanding Your Vitals**')
     
     # Dictionary of slide title and image paths
     slides = [
