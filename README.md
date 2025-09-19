@@ -4,9 +4,9 @@ Vital Signs is a simple application to allows users to understand there inputted
 
 ## 🚀 Features
 
-- [Feature 1, User inputted Vital Information
-- [Feature 2, Charts on Healthy and Unhealthy vital signs]
-- [Feature 3, Information about different vital signs
+- User inputted Vital Information
+- Charts on Healthy and Unhealthy vital signs]
+- Information about different vital signs
 
 ## 📸 Screenshots
 
