@@ -10,8 +10,8 @@ Vital Signs is a simple application to allows users to understand there inputted
 
 ## 📸 Screenshots
 
-![Screenshot 1](path/to/image1.png)
-![Screenshot 2](path/to/image2.png)
+![Screenshot 1](https://github.com/webgence/Vital-Signs/blob/main/ScreenShots/1.png)
+![Screenshot 2](https://github.com/webgence/Vital-Signs/blob/main/ScreenShots/2.png)
 
 ## 🛠️ Tech Stack
 
