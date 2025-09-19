@@ -15,7 +15,7 @@ Vital Signs is a simple application to allows users to understand there inputted
 
 ## 🛠️ Tech Stack
 
-PyWeb, HTML, Python
+PyWeb, HTML/CSS, Python
 
 ## 📦 Installation
 
