@@ -17,7 +17,7 @@ Note: The notebook.ipynb file shows a graph of vitals taken during surgery.
 
 ## 🛠️ Tech Stack
 
-PyWeb, HTML/CSS, Python
+PyWebIO, HTML/CSS, Python
 
 ## 📦 Installation
 
