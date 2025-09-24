@@ -1,6 +1,6 @@
 # Vital Signs
 
-Vital Signs is a simple application to allows users to understand there inputted vitals. This project does not intend discourage patients from visting doctors, instead it help patients better understand their health.
+Vital Signs is a simple application to allows users to understand there inputted vitals. This project does not intend to discourage patients from visting doctors, instead it help patients better understand their health.
 
 Note: The notebook.ipynb file shows a graph of vitals taken during surgery.
 
